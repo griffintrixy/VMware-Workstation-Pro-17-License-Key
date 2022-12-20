@@ -1,10 +1,12 @@
 # VMware-Workstation-Pro-17-License-Key
+
+
        ---------------------------
-       By:    Griffin Trixy
+       👋  Hi, I’m @griffintrixy
        ---------------------------
         VMware Workstation Pro 17
 
-             License-Key
+               License-Key
        ------------------------------
        4A4RR-813DK-M81A9-4U35H-06KND
 
